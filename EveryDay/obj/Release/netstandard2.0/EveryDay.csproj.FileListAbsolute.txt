@@ -1,0 +1,15 @@
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/bin/Release/netstandard2.0/EveryDay.deps.json
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/bin/Release/netstandard2.0/EveryDay.dll
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/bin/Release/netstandard2.0/ref/EveryDay.dll
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/bin/Release/netstandard2.0/EveryDay.pdb
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.csprojAssemblyReference.cache
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/View/AddNotePage.xaml.g.cs
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.AssemblyInfoInputs.cache
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.AssemblyInfo.cs
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.csproj.CoreCompileInputs.cache
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/XamlC.stamp
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.dll
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/ref/EveryDay.dll
+/Users/nicholaseisemann/Desktop/C#_Project/EveryDay/EveryDay/obj/Release/netstandard2.0/EveryDay.pdb

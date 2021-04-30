@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D2AB4930-9B98-466D-A789-7156E6A9E053}|Default">
+  <MonoDevelop.Ide.ItemProperties.EveryDay.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EveryDay/View/AddNotePage.xaml">
+    <Files>
+      <File FileName="EveryDay/MainPage.xaml.cs" Line="38" Column="53" />
+      <File FileName="EveryDay/View/AddNotePage.xaml" Line="9" Column="30" />
+      <File FileName="EveryDay/MainPage.xaml" />
+      <File FileName="EveryDay/Model/ModelClass.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EveryDay" expanded="True">
+            <Node name="EveryDay" expanded="True" />
+            <Node name="EveryDay.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

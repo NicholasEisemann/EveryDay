@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="EveryDay.View.AddNotePage"
+    Title="Add Note">
+<StackLayout>
+    <Editor Text="{Binding Text}"
+            HeightRequest="440"
+            Keyboard="Default"/>
+
+    <Button Text="Сancel"
+            Clicked="Cancel"/>
+
+    <Button Text="Save"
+            Clicked="SaveNote"/>
+
+    <Button Text="Delete"
+            Clicked="DeleteNote"/>
+    
+
+</StackLayout>
+</ContentPage>
