@@ -11,7 +11,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EveryDay" expanded="True">
-            <Node name="EveryDay" expanded="True" />
+            <Node name="EveryDay" expanded="True">
+              <Node name="View" expanded="True" />
+            </Node>
             <Node name="EveryDay.Android" selected="True" />
           </Node>
         </State>
